@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BiancaMos
-- 👀 I’m interested in JS
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning front-end
 - 🔭 I’m looking to collaborate on companies that need solutions in lines of codes
 - 📫 How to reach me: bianca_mos@hotmail.com
