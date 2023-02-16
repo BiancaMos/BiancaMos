@@ -15,7 +15,7 @@
 
 ##
 
-#### 🤖 Github
+#### 🤖 My GitHub Stats:
 <a href="https://github.com/BiancaMos"> 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=biancamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancamos&layout=compact&langs_count=16&theme=dracula"/>
@@ -38,11 +38,17 @@
 
  
  ##
+
+ <div> 
+  <a href="https://instagram.com/bianca_mos?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/mos_bianca" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <a href="biancamos#3110" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatobianca.mos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
  
- ### 
- <div>
-   <a href="https://www.linkedin.com/in/bianca-m%C3%B3s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div> 
+ 
 
 
 <!---
