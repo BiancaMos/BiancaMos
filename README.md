@@ -1,6 +1,6 @@
  ### 👋🏻 Hi, I’m Bianca Mós
 
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT
+- 👀 I’m interested in JAVASCRIPT, HTML, CSS, ReactJs, NodeJs, React Native, Desenvolvimento de IA, Java e Python 
 - 🌱 I’m currently learning front-end
 - 🔭 I’m looking to collaborate on companies that need solutions in lines of codes
 - 📫 How to reach me: @BiancaMos
